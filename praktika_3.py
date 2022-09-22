@@ -126,3 +126,5 @@ for i in phone.values():
 print('Одинаковых фирм:', s['firms'])
 print('Одинаковых ОС:', s['ОС'])
 print('Ключи отсортированные по убыванию;', sorted(s.values(), reverse=True))
+
+#результат задачи: https://clck.ru/327u8c
